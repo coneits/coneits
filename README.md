@@ -1,4 +1,4 @@
-### Senior Web Developer
+### Senior Software Developer
 
 - Python (with frameworks like Django or Flask)
 - Ruby (with frameworks like Ruby on Rails)
